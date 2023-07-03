@@ -38,7 +38,7 @@ Do NOT modify this file if you dont know what youre doing.
  * Replaces Emojis
  * Delete this @import if you want the regular discord emojis (Docs coming soon (maybe))
 */
-@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Apple.css);
+@import url(https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/master/Themes/EmojiReplace/base/Microsoft.css);
 
 :root {
   /* Banners (modifiable!) */
